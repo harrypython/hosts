@@ -1,4 +1,5 @@
 Create by [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
+python3 UpdateHostsFile.py --auto --extensions fakenews gambling porn --output "/your/path/hosts/"
 
 ## HOSTS in Windows 7/8.x/10
 1. Right mouse click on Notepad icon then click on `Run as administrator`
